@@ -24,7 +24,7 @@
     "js-beautify": "^1.10.2",
     "midori": "3.3.0",
     "moize": "^5.4.4",
-    "node-fetch": "2.3.0",
+    "node-fetch": "2.6.1",
     "polished": "^3.4.1",
     "prop-types": "^15.7.2",
     "ramda": "0.26.1",

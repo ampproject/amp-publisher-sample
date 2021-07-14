@@ -23,7 +23,7 @@
     "fuse.js": "3.3.0",
     "geoip-country": "3.2.0",
     "get-timezone-offset": "1.0.3",
-    "google-spreadsheet": "2.0.6",
+    "google-spreadsheet": "3.0.12",
     "jsonwebtoken": "8.4.0",
     "mdi-react": "5.1.0",
     "midori": "3.3.0",

@@ -27,7 +27,7 @@
     "jsonwebtoken": "8.4.0",
     "mdi-react": "5.1.0",
     "midori": "3.3.0",
-    "node-fetch": "2.3.0",
+    "node-fetch": "2.6.1",
     "pluralize": "7.0.0",
     "react": "16.7.0",
     "react-dom": "16.7.0",

@@ -50,7 +50,7 @@
     "copy-dir": "^1.2.0",
     "eslint": "5.10.0",
     "eslint-config-metalab": "10.0.0",
-    "nodemon": "1.18.9",
+    "nodemon": "2.0.0",
     "prettier": "1.15.3",
     "rimraf": "^3.0.0"
   }

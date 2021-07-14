@@ -19,7 +19,7 @@
     "cookies": "0.7.3",
     "cuid": "2.1.4",
     "doasync": "2.0.1",
-    "fast-glob": "2.2.6",
+    "fast-glob": "3.0.0",
     "fuse.js": "3.3.0",
     "geoip-country": "3.2.0",
     "get-timezone-offset": "1.0.3",
@@ -46,7 +46,7 @@
     "amphtml-validator": "1.0.23",
     "eslint": "5.12.0",
     "eslint-config-metalab": "10.0.0",
-    "nodemon": "1.18.9",
+    "nodemon": "2.0.0",
     "prettier": "1.15.3"
   }
 }

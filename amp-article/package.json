@@ -16,7 +16,7 @@
     "@babel/preset-react": "7.0.0",
     "clean-css": "4.2.1",
     "midori": "3.3.0",
-    "node-fetch": "2.3.0",
+    "node-fetch": "2.6.1",
     "ramda": "0.26.1",
     "random": "2.0.13",
     "react": "16.7.0",
